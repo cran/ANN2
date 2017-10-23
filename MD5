@@ -1,8 +1,8 @@
-c0dc02b746073e156b0781d170a9c043 *DESCRIPTION
+fea4033292319ccedb01b0ccbf8e7a61 *DESCRIPTION
 9d35237a2d913b6272e20027a59d86d7 *NAMESPACE
 bfd62a52f588a6a165cd32fb083570e3 *R/RcppExports.R
 ccc52b29660832fa967f17a2176955aa *R/callable.R
-83fabb9baa97c312336163ee199ec85f *R/namespace.R
+1373b437e088aafff9e153760bb6f23b *R/namespace.R
 e2d443110be57d6416111e23cf29e5d5 *R/required-functions.R
 bad5e89ae6d678c8f139802872270489 *man/autoencoder.Rd
 9e0be2665a5ae3c1aef1be4a7b858585 *man/example_NN.Rd
@@ -17,4 +17,4 @@ b51a83053f2aa1f95b31733079a6f487 *man/predict.ANN.Rd
 9c45e5e63accc01ad8c14e4c2e627836 *src/Makevars
 71b076bc518e279a9d4f431e6ecf3464 *src/Makevars.win
 bcfa7e6bc5695592fe8e1d1940cca989 *src/RcppExports.cpp
-d2f26310c4aa675085621afb9087a9e1 *src/rcpp-nn.cpp
+f0b8fb50ad7d5c310ddd09a5c7af6c99 *src/rcpp-nn.cpp
