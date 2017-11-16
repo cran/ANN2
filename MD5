@@ -1,9 +1,9 @@
-f6156933f176fe8dbf7f055db88d7c51 *DESCRIPTION
+06ec8500d3396e976617a012b341b21e *DESCRIPTION
 9d35237a2d913b6272e20027a59d86d7 *NAMESPACE
 8e22e152345a6f09dfd57a48ec0c6634 *R/RcppExports.R
-adbbe6cfa592e4020ce13455066f5cd5 *R/callable.R
+4a0d543126abc0a67dd6b35430eb3d38 *R/callable.R
 1373b437e088aafff9e153760bb6f23b *R/namespace.R
-5f128696f47c51e2aa9dc2f6fedddf38 *R/required-functions.R
+a7c4423eca9dc0f405fde6262703c172 *R/required-functions.R
 502cec06b061f989b98e407bdf369e6c *man/autoencoder.Rd
 9e0be2665a5ae3c1aef1be4a7b858585 *man/example_NN.Rd
 7a68d7b5ee090acf0a66007ca1605111 *man/neuralnetwork.Rd
@@ -17,4 +17,4 @@ b51a83053f2aa1f95b31733079a6f487 *man/predict.ANN.Rd
 9c45e5e63accc01ad8c14e4c2e627836 *src/Makevars
 71b076bc518e279a9d4f431e6ecf3464 *src/Makevars.win
 58f8d3729c21b9d7f2973f80e71530d6 *src/RcppExports.cpp
-5cb807650ec86e1f2161ff8be1578337 *src/rcpp-nn.cpp
+96681d2eace4e0b3eaacaaed95e6a095 *src/rcpp-nn.cpp
