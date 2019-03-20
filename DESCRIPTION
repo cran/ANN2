@@ -1,8 +1,8 @@
 Package: ANN2
 Type: Package
 Title: Artificial Neural Networks for Anomaly Detection
-Version: 2.2
-Date: 2019-03-19
+Version: 2.3
+Date: 2019-03-20
 Author: Bart Lammers
 Maintainer: Bart Lammers <bart.f.lammers@gmail.com>
 Description: Training of neural networks for classification and regression tasks
@@ -27,6 +27,6 @@ LinkingTo: Rcpp, RcppArmadillo, Rcereal, testthat
 Suggests: testthat
 RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2019-03-19 11:18:04 UTC; bart
+Packaged: 2019-03-20 11:38:07 UTC; bart
 Repository: CRAN
-Date/Publication: 2019-03-19 14:43:25 UTC
+Date/Publication: 2019-03-20 13:03:30 UTC

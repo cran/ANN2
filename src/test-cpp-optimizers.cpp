@@ -24,7 +24,8 @@ context("Tests for optimizers") {
     // Construct optimizer tester
     OptimizerTester SGDTester("sgd", abs_tol);
     
-    for (int i; i < n_steps; i++) {
+    // Perform update steps
+    for (int i = 0; i < n_steps; i++) {
       SGDTester.step_W();
       SGDTester.step_b();
     }
@@ -44,6 +45,7 @@ context("Tests for optimizers") {
     expect_true( std::abs(W_y-1) < abs_tol );
     expect_true( std::abs(b_x-1) < abs_tol );
     expect_true( std::abs(b_y-1) < abs_tol );
+    
   }
   
   // RMSprop Loss
@@ -52,7 +54,8 @@ context("Tests for optimizers") {
     // Construct optimizer tester
     OptimizerTester RMSPropTester("rmsprop", abs_tol);
     
-    for (int i; i < n_steps; i++) {
+    // Perform update steps
+    for (int i = 0; i < n_steps; i++) {
       RMSPropTester.step_W();
       RMSPropTester.step_b();
     }
@@ -72,6 +75,7 @@ context("Tests for optimizers") {
     expect_true( std::abs(W_y-1) < abs_tol );
     expect_true( std::abs(b_x-1) < abs_tol );
     expect_true( std::abs(b_y-1) < abs_tol );
+    
   }
   
   // Adam optimizer
@@ -80,7 +84,8 @@ context("Tests for optimizers") {
     // Construct optimizer tester
     OptimizerTester AdamTester("adam", abs_tol);
     
-    for (int i; i < n_steps; i++) {
+    // Perform update steps
+    for (int i = 0; i < n_steps; i++) {
       AdamTester.step_W();
       AdamTester.step_b();
     }
@@ -100,5 +105,6 @@ context("Tests for optimizers") {
     expect_true( std::abs(W_y-1) < abs_tol );
     expect_true( std::abs(b_x-1) < abs_tol );
     expect_true( std::abs(b_y-1) < abs_tol );
+    
   }
 }

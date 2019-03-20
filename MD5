@@ -1,4 +1,4 @@
-493d46fcccc9c33c2f8d19295d8ba39c *DESCRIPTION
+e9f471bcb5219ee847a209fb467650a8 *DESCRIPTION
 df92e443a4f3a093e3d5d67db04b7336 *NAMESPACE
 1c2a9b51f24db9177a5ed19cfc03fbd3 *R/RcppExports.R
 1536f1752121396dc5ae711eab809c52 *R/catch-routine-registration.R
@@ -7,7 +7,7 @@ f1b317cd4d1637d7bd7f51031c62f1ba *R/interface.R
 7cafd0505fac8934d9b2dc4a454d4300 *R/load_module.R
 40d677c93dde6b17df3f3be9b2fde662 *R/namespace.R
 923a389aaa3b3247933bcbb2441b2de7 *R/plotting.R
-71118280ee4e492a962fa058cf5c9a6f *README.md
+f6d8b6dd4b4cec01f1c311858a309565 *README.md
 a23a9d1453657a64418f46a454e22fdc *man/ANN.Rd
 c523367538a92f94775df1a7353f49a3 *man/autoencoder.Rd
 b632ff34ed6a67f2544e15d684af69e3 *man/compression_plot.Rd
@@ -44,9 +44,9 @@ d7ec6aa1024f904312210742968f6016 *src/Optimizer.h
 738bdc93011facabf818f6c8e7b94a8a *src/RcppExports.cpp
 abb31586d99c800db8e36d06d42c8b1e *src/arma_serialization.cpp
 973d64ee9ee76f9dfd22b5a761ba71d5 *src/arma_serialization.h
-26f4d408ce4c75168429be2dfb800945 *src/test-cpp-activations.cpp
-f56652747312147e35808304622c3b69 *src/test-cpp-loss.cpp
-d9a2413212792694cfd6641ba89c4ae5 *src/test-cpp-optimizers.cpp
+71068e56efa6fbfde77ce8d1a609e66d *src/test-cpp-activations.cpp
+44303ed7069e979455cc8af67488b960 *src/test-cpp-loss.cpp
+5cc8ee59786f417e67ef1d5060fc5c14 *src/test-cpp-optimizers.cpp
 966a0ecd0300c8d53697b40568e34c8b *src/test-cpp-utils.cpp
 c2cb0c30e10da611f9fbe56aea52f7a9 *src/test-runner.cpp
 3277d38e1b77c74e8dda632cc1aba4bc *src/test_utils.cpp
@@ -56,7 +56,7 @@ a4b94b9cf0ac70823cc1a0de3497c32e *src/utils.h
 cf59959360622c333642a5655d36a331 *tests/testthat.R
 67998762f6389d3c6c29b840bfde4210 *tests/testthat/test-checks.R
 8dd4471aebb8e4625439ae448b6eb22c *tests/testthat/test-cpp.R
-e1c8c2749cb8a41753650c3ed63b0fa5 *tests/testthat/test-gradient.R
+05cb4c017f55bbd2a1982e69cce5b679 *tests/testthat/test-gradient.R
 90197f6a3c9205e789a0549784895a44 *tests/testthat/test-interface.R
 bc3b34daf3f026503675de83387cab74 *tests/testthat/test-plotting.R
-ea6cc489e12b4dd8b4beb112d7bc9888 *tests/testthat/test-serialization.R
+1b00ab6d88749f89402a59f9abcd3f6c *tests/testthat/test-serialization.R
