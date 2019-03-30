@@ -1,4 +1,4 @@
-e9f471bcb5219ee847a209fb467650a8 *DESCRIPTION
+3ac7a0f35cc7e54828816def16f15e54 *DESCRIPTION
 df92e443a4f3a093e3d5d67db04b7336 *NAMESPACE
 1c2a9b51f24db9177a5ed19cfc03fbd3 *R/RcppExports.R
 1536f1752121396dc5ae711eab809c52 *R/catch-routine-registration.R
@@ -55,7 +55,7 @@ c984369646ed0f9914201dc351d49035 *src/utils.cpp
 a4b94b9cf0ac70823cc1a0de3497c32e *src/utils.h
 cf59959360622c333642a5655d36a331 *tests/testthat.R
 67998762f6389d3c6c29b840bfde4210 *tests/testthat/test-checks.R
-8dd4471aebb8e4625439ae448b6eb22c *tests/testthat/test-cpp.R
+26bd675758522b47f9c2227a9c6b0a52 *tests/testthat/test-cpp.R
 05cb4c017f55bbd2a1982e69cce5b679 *tests/testthat/test-gradient.R
 90197f6a3c9205e789a0549784895a44 *tests/testthat/test-interface.R
 bc3b34daf3f026503675de83387cab74 *tests/testthat/test-plotting.R
