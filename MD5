@@ -1,4 +1,5 @@
-5145431168b8c80c7751b23055165f28 *DESCRIPTION
+b3e0bbf8cf240f416e0a96c4df44a688 *DESCRIPTION
+3000208d539ec061b899bce1d9ce9404 *LICENSE
 df92e443a4f3a093e3d5d67db04b7336 *NAMESPACE
 1c2a9b51f24db9177a5ed19cfc03fbd3 *R/RcppExports.R
 1536f1752121396dc5ae711eab809c52 *R/catch-routine-registration.R
@@ -6,8 +7,8 @@ df92e443a4f3a093e3d5d67db04b7336 *NAMESPACE
 f1b317cd4d1637d7bd7f51031c62f1ba *R/interface.R
 7cafd0505fac8934d9b2dc4a454d4300 *R/load_module.R
 40d677c93dde6b17df3f3be9b2fde662 *R/namespace.R
-923a389aaa3b3247933bcbb2441b2de7 *R/plotting.R
-f6d8b6dd4b4cec01f1c311858a309565 *README.md
+272fb8bae5aa72e18101f06514dde4a8 *R/plotting.R
+a898afa52b653c730479c8dde81f6ac0 *README.md
 e612690af2f575dfd02e2e91443cea23 *inst/cereal/LICENSE
 1e15f4dcd18aa01d19617cf8c6dc30a6 *inst/cereal/access.hpp
 9ac18382e3ac08a3a1b22f5483a32c05 *inst/cereal/archives/adapters.hpp

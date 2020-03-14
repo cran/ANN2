@@ -1,8 +1,8 @@
 Package: ANN2
 Type: Package
 Title: Artificial Neural Networks for Anomaly Detection
-Version: 2.3.2
-Date: 2019-04-13
+Version: 2.3.3
+Date: 2020-03-14
 Author: Bart Lammers
 Maintainer: Bart Lammers <bart.f.lammers@gmail.com>
 Description: Training of neural networks for classification and regression tasks
@@ -17,7 +17,7 @@ Description: Training of neural networks for classification and regression tasks
     options for optimization algorithms are RMSprop, Adam and SGD with momentum.
     The package contains a vectorized C++ implementation that facilitates 
     fast training through mini-batch learning.
-License: GPL (>= 3)
+License: GPL (>= 3) | file LICENSE
 URL: https://github.com/bflammers/ANN2
 Encoding: UTF-8
 LazyData: true
@@ -28,6 +28,6 @@ LinkingTo: Rcpp, RcppArmadillo, testthat
 Suggests: testthat
 RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2019-04-13 14:49:08 UTC; bart
+Packaged: 2020-03-14 22:22:56 UTC; bart
 Repository: CRAN
-Date/Publication: 2019-04-13 22:46:23 UTC
+Date/Publication: 2020-03-14 23:00:02 UTC
